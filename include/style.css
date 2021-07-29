@@ -1,0 +1,25 @@
+.bg{ 
+    background: url(picture/starrynight.jpg); 
+    width: 100%; 
+    height: 100%; 
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-conatiner{
+    border: 3px solid rgb(255, 254, 236);
+    padding: 30px 40px;
+}
+
+#header{
+    color: #fff;
+}
+
+.ft{
+    color: #fff;
+}
+
+#signup{
+    color: rgb(97, 230, 253);
+}

@@ -1,0 +1,10 @@
+.profile-header {
+    transform: translateY(5rem);
+}
+
+body {
+    background: linear-gradient(rgb(220, 220, 255), rgb(240, 240, 240)); /* Standard syntax */
+    background: -webkit-linear-gradient(rgb(220, 220, 255), rgb(240, 240, 240)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgb(220, 220, 255), rgb(240, 240, 240)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgb(220, 220, 255), rgb(240, 240, 240)); /* For Firefox 3.6 to 15 */
+}
